@@ -1,0 +1,16 @@
+/* Styling */
+
+h1 {
+    color: #51C5FF;
+    font-size: 2em;
+    text-align: center; 
+}
+
+body {
+    background: #fdffd0;
+}
+
+iframe {
+  max-width: 100%;
+  width: 100%;
+}
